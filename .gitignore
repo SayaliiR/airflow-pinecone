@@ -1,0 +1,6 @@
+# Airflow runtime output: not part of the submission
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.env
